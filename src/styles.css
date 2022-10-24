@@ -8,8 +8,8 @@ body {
 }
 
 .nav {
-    background-color: black;
-    color: white;
+    background-color: rgb(10, 125, 106);
+    color: rgb(16, 15, 15);
     display: flex;
     justify-content: space-between;
     align-items: stretch;
