@@ -1,0 +1,27 @@
+.card {
+    border: 1px solid black;
+    border-radius: 1rem;
+    box-shadow: 0 1rem 1rem -0.7rem rgb(0, 0, 0,0.4);
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
+.heading {
+   text-align: center;
+   margin: 0;
+   padding: 10px;
+}
+.para {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+ }
+ .home-card {
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+ }
+
+ .home-card > .card {
+    display: inline-block;
+ }
